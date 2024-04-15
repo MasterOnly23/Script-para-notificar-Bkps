@@ -57,7 +57,8 @@ def check_all_folders():
     "1-8_8BDBfxBgzXRva3mqgGAXHWVxc0tuf",
     "1-4VQwiPiQF3A6oZxzFUYkIptZUJrA_XF",
     "1--2YvDY5fiK75sSG2ZinUAkMv4QOr4Hk",
-    "1-6NR6sXAcCg40JY377sRZa-QYpWsvVVu"
+    "1-6NR6sXAcCg40JY377sRZa-QYpWsvVVu",
+    "1-0DyAmvkjbQOdFh1b9k3FPtFVQAsFj8w",
 ]
 
     messages = []
